@@ -7,6 +7,6 @@ body{
 p{
     width: 200px;
     height: 200px;
-    background-color: aqua;
+    background-color: blue;
     display: flex;
 }
