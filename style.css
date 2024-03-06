@@ -1,6 +1,7 @@
 body{
     background-color: skyblue;
     display: flex;
+    flex-wrap: wrap;
 }
 
 p{
@@ -8,5 +9,4 @@ p{
     height: 200px;
     background-color: aqua;
     display: flex;
-    flex-wrap: wrap;
 }
